@@ -41,3 +41,27 @@ aside {
 background-color: #f4f4f4;
 padding: 10px;
 margin: 10px;
+float: right;
+width: 30%;
+}
+figure {
+margin: 0;
+padding: 10px;
+text-align: center;
+}
+figure img {
+width: 30%; /* Adjusted to make the image smaller */
+height: auto;
+}
+figcaption {
+font-style: italic;
+color: #555;
+}
+footer {
+background-color: #4CAF50;
+color: white;
+padding: 10px;
+text-align: center;
+clear: both;
+}
+table {
