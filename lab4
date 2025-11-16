@@ -114,3 +114,13 @@ Reading
 </div>
 </div>
 <div class="form-group">
+<label for="profile-pic">Profile Picture:</label>
+<input type="file" id="profile-pic" name="profile-pic">
+</div>
+<div class="form-group">
+<button type="submit">Register</button>
+</div>
+</form>
+</div>
+</body>
+</html>
