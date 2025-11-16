@@ -65,3 +65,25 @@ text-align: center;
 clear: both;
 }
 table {
+width: 100%;
+border-collapse: collapse;
+margin: 20px 0;
+}
+table, th, td {
+border: 1px solid #333;
+}
+th, td {
+padding: 10px;
+text-align: left;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Daily News</h1>
+<p>Your source for the latest updates</p>
+</header>
+<nav>
+<a href="#">Home</a>
+<a href="#">World</a>
+<a href="#">Sports</a>
