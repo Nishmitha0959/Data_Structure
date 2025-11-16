@@ -87,3 +87,23 @@ text-align: left;
 <a href="#">Home</a>
 <a href="#">World</a>
 <a href="#">Sports</a>
+<a href="#">Entertainment</a>
+</nav>
+<section>
+<article>
+<h2>Breaking News: Technology Advances</h2>
+<p>The world of technology is evolving at a rapid pace...</p>
+</article>
+<article>
+<h2>Health: Tips for a Better Life</h2>
+<p>Health is wealth. Here are some tips to maintain a healthy
+lifestyle...</p>
+</article>
+<aside>
+<h3>Advertisement</h3>
+<p>Get the latest gadgets at the best prices! Visit our store now.</p>
+</aside>
+<figure>
+<img src="D.jpeg" alt="News Image">
+<figcaption>Image: Latest News Update</figcaption>
+</figure>
