@@ -54,3 +54,23 @@ input[type="checkbox"] {
 width: auto;
 margin-right: 5px;
 }
+button {
+background-color: #4CAF50;
+color: white;
+border: none;
+cursor: pointer;
+font-size: 16px;
+font-weight: bold;
+padding: 12px;
+}
+button:hover {
+background-color: #35b088;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h2>Registration Form</h2>
+<form action="#" method="post">
+<div class="form-group">
+<label for="firstname">First Name:</label>
