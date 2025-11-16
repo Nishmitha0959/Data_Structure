@@ -107,3 +107,26 @@ lifestyle...</p>
 <img src="D.jpeg" alt="News Image">
 <figcaption>Image: Latest News Update</figcaption>
 </figure>
+<table>
+<caption>Latest Sports Scores</caption>
+<thead>
+<tr>
+<th>Team</th>
+<th>Score</th>
+<th>Opponent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Team A</td>
+<td>3</td>
+<td>Team B</td>
+</tr>
+<tr>
+<td>Team C</td>
+<td>2</td>
+<td>Team D</td>
+</tr>
+</tbody>
+</table>
+</section>
