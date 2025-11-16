@@ -57,3 +57,23 @@ width: 300px;
 number"><br>
  <input type="number" id="num2" placeholder="Enter
 second number (if needed)"><br>
+<button onclick="calculate('sum')">Sum</button>
+ <button
+onclick="calculate('difference')">Difference</button>
+ <button onclick="calculate('product')">Product</button>
+ <button onclick="calculate('quotient')">Quotient</button>
+ <button
+onclick="calculate('remainder')">Remainder</button>
+ <button onclick="calculate('power')">Power</button>
+ <button onclick="calculate('square')">Square</button>
+ <button onclick="calculate('sqrt')">Square Root</button>
+ 
+ <div id="result">Result: </div>
+ </div>
+ <script>
+ function calculate(operation) {
+ let num1 =
+parseFloat(document.getElementById('num1').value);
+ let num2 =
+parseFloat(document.getElementById('num2').value);
+ let result;
